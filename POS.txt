@@ -1,0 +1,8 @@
+ENTITY_pronoun
+ENTITY_noun
+ENTITY_nouny
+#ENTITY_oov
+ACTION_verb
+MODIFIER
+MODIFIER_color
+FUNC_negation
