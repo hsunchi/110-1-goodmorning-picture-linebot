@@ -1,6 +1,6 @@
 # 110-1-goodmorning-picture-linobot
 # Demo Video:
-  https://www.youtube.com/watch?v=vnAm8nn3DA4
+[![](https://i.ytimg.com/vi/vnAm8nn3DA4/maxresdefault.jpg)](https://www.youtube.com/watch?v=vnAm8nn3DA4 "")
   
 # introduce:
 這是一個linebot，讓長輩能一鍵快速生成長輩圖。使用蓮花的dataset訓練蓮花圖片生成模型，以及用自然語言處理生成祝福句子，將模型生成的蓮花圖片與NLP文字合成一張AI長輩圖。
